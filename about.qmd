@@ -1,0 +1,13 @@
+---
+title: "About me and this course"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/amrei-bp
+
+---
+
+Here I can write about me, or this blog. 

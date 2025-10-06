@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Title of the Homepage"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/amrei-bp
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+
+

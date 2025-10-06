@@ -1,0 +1,17 @@
+{
+  "hash": "e1ecaa1c8c740435b41ce7530615c37c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Using R in Quarto\"\nauthor: \"amrei-bp\"\ndate: \"2025-10-06\"\ncategories: [news, quarto, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Define 2 vectors\ncars <- c(1, 3, 6, 4, 9)\ntrucks <- c(2, 5, 4, 5, 12)\n\n# Graph cars using a y axis that ranges from 0 to 12\nplot(cars, type=\"o\", col=\"blue\", ylim=c(0,12))\n\n# Graph trucks with red dashed line and square points\nlines(trucks, type=\"o\", pch=22, lty=2, col=\"red\")\n\n# Create a title with a red, bold/italic font\ntitle(main=\"Autos\", col.main=\"red\", font.main=4)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
