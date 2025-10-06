@@ -7,13 +7,6 @@
     "text": "Here I can write about me, or this blog."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Welcome to my blog!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Using R in Quarto",
@@ -25,6 +18,13 @@
     "href": "index.html",
     "title": "Amrei and Bioinformatics",
     "section": "",
-    "text": "Using R in Quarto\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\nNo matching items"
+    "text": "Using R in Quarto\n\n\n\nnews\n\nquarto\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\nwelcome\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Welcome to my blog!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
