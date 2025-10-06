@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amrei and Bioinformatics",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me and this course",
     "section": "",
-    "text": "Using R in Quarto\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\nNo matching items"
+    "text": "Here I can write about me, or this blog."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -21,10 +21,10 @@
     "text": "This is a post with executable code.\n\n# Define 2 vectors\ncars &lt;- c(1, 3, 6, 4, 9)\ntrucks &lt;- c(2, 5, 4, 5, 12)\n\n# Graph cars using a y axis that ranges from 0 to 12\nplot(cars, type=\"o\", col=\"blue\", ylim=c(0,12))\n\n# Graph trucks with red dashed line and square points\nlines(trucks, type=\"o\", pch=22, lty=2, col=\"red\")\n\n# Create a title with a red, bold/italic font\ntitle(main=\"Autos\", col.main=\"red\", font.main=4)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me and this course",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amrei and Bioinformatics",
     "section": "",
-    "text": "Here I can write about me, or this blog."
+    "text": "Using R in Quarto\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\namrei-bp\n\n\n\n\n\n\nNo matching items"
   }
 ]
